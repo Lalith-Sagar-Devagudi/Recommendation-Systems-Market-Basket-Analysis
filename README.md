@@ -1,4 +1,4 @@
-# Market Basket Analysis using PySpark and FPGrowth
+# Market Basket Analysis (MBA) using PySpark and FPGrowth
 
 This repository contains code for performing Market Basket Analysis using PySpark and the FPGrowth algorithm. The analysis is done on a dataset obtained from Kaggle, which provides transaction data for market basket analysis.
 
